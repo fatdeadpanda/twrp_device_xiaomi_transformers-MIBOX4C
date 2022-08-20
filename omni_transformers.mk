@@ -21,5 +21,5 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 PRODUCT_DEVICE := transformers
 PRODUCT_NAME := omni_transformers
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := MiBOX4
+PRODUCT_MODEL := MiBOX4C
 PRODUCT_MANUFACTURER := xiaomi
